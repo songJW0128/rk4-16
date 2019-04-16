@@ -19,7 +19,9 @@
   "homepage": "https://github.com/songJW0128/rk4-16#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
     "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
     "gulp-webserver": "^0.9.1"
   }
 }
